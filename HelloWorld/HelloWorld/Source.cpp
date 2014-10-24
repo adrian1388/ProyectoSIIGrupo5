@@ -7,20 +7,24 @@ int main(){
 
 	int a=0,b=0;
 
+	/*HelloWorld - adrian1388*/
+
 	printf("Hello World");
+
+	/*Suma - Marvincin*/
 
 	printf("Ingrese 2 numeros\n");
 
 	printf("Ingrese el primer número\n");
 
 	scanf("%d",&a);
-	printf("Ingrese el primer número\n");
+	printf("Ingrese el segundo número\n");
 
 	scanf("%d",&b);
 	printf("La suma de los numeros es %d",a+b);
 
 
-	//Parte de la division
+	/*Division - razerjon24*/
 
 	printf("\nDivision \n");
 
@@ -46,8 +50,11 @@ int main(){
  
 	printf("La division de los numeros es %d", a/b);
 
+	/*Multiplicacion - andrea66x*/
 
 	printf("\n La multiplicacion de los numeros es: %d",a*b);
+
+	/*Potencia - JordyVasquez*/
 
 	printf("\nIngrese el primer número para la potencia\n");
 
